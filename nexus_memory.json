@@ -1,0 +1,22 @@
+{
+    "Introduction": {
+        "value": "Discussed HTML and CSS basics",
+        "expires_at": 1779187630.9721777,
+        "days": 30
+    },
+    "Greeting": {
+        "value": "Enthusiastic",
+        "expires_at": 1779189245.612953,
+        "days": 30
+    },
+    "username": {
+        "value": "Shashank",
+        "expires_at": 1779189367.9299598,
+        "days": 30
+    },
+    "language": {
+        "value": "Hindi",
+        "expires_at": 1779189457.0420866,
+        "days": 30
+    }
+}
